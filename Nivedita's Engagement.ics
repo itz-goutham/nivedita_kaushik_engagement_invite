@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nivedita and Kaushik//Engagement Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:nivedita-kaushik-engagement-20261111@example.com
+DTSTAMP:20261020T000000Z
+DTSTART;TZID=Asia/Kolkata:20261111T093000
+DTEND;TZID=Asia/Kolkata:20261111T103000
+SUMMARY:Nivedita's Engagement
+LOCATION:SUMO ANAIKA GRAND (Le Foliage by TGI)\, 51 46th Cross Road\, 8th Block\, CR Layout\, 1st Phase\, J.P. Nagar\, Bengaluru\, Karnataka 560082
+DESCRIPTION:Engagement ceremony: 9:30 AM - 10:30 AM. Lunch: 12:00 PM onwards.
+END:VEVENT
+END:VCALENDAR
