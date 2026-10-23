@@ -15,3 +15,10 @@
  @media(max-width:600px){.header-mark img{width:40px;height:35px}.shrines-art{width:min(100%,135px)}.shrines-art img{max-height:70px}.parents{font-size:clamp(26px,7vw,32px)}.person-name{font-size:clamp(38px,9vw,55px)}.groom-family{font-size:18px;padding:0 10px}}
 
 .overline-degree{text-decoration:overline;text-decoration-thickness:1px;text-decoration-skip-ink:none;}
+
+.person-name .name-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 0.45em;
+    font-weight: 500;
+    vertical-align: middle;
+}
